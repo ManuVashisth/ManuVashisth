@@ -1,39 +1,50 @@
-# Hello, I'm [Your Name]! 👋
+<!-- Include a div to set background color and font style -->
+<div style="background-color: #000000; color: #C8C8C8; font-family: 'Montserrat', sans-serif; padding: 20px; border-radius: 10px;">
 
-I'm a passionate software developer with a strong foundation in Java Spring, data structures and algorithms (DSA), and MySQL. With a goal-oriented mindset and a deep-seated enthusiasm for technology, I'm constantly exploring new horizons in the world of software development.
+<h1>Hello, I'm Manu Vashisth! 👋</h1>
 
-## 🔧 Skills
+<p>I'm a passionate software developer with a strong foundation in Java Spring, data structures and algorithms (DSA), and MySQL. With a goal-oriented mindset and a deep-seated enthusiasm for technology, I'm constantly exploring new horizons in the world of software development.</p>
 
-- **Languages:** Java, Python
-- **Frameworks:** Java Spring, Hibernate
-- **Databases:** MySQL
-- **Version Control:** Git
-- **Other:** Data Structures and Algorithms (DSA), Object-Oriented Design (OOD)
+<h2>🔧 Skills</h2>
 
-## 🌱 Currently Learning
+<ul>
+  <li><strong>Languages:</strong> Java, Python</li>
+  <li><strong>Frameworks:</strong> Java Spring, Hibernate</li>
+  <li><strong>Databases:</strong> MySQL</li>
+  <li><strong>Version Control:</strong> Git</li>
+  <li><strong>Other:</strong> Data Structures and Algorithms (DSA), Object-Oriented Design (OOD)</li>
+</ul>
 
-- Advanced topics in Java Spring
-- Cloud computing platforms like AWS
-- Machine Learning with Python
+<h2>🌱 Currently Learning</h2>
 
-## 📊 GitHub Stats
+<ul>
+  <li>Advanced topics in Java Spring</li>
+  <li>Cloud computing platforms like AWS</li>
+  <li>Machine Learning with Python</li>
+</ul>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuVashisth&show_icons=true&theme=radical)
+<h2>💼 Experience</h2>
 
-## 📈 Top Languages
+<ul>
+  <li>Software Developer(Full-Stack) at WorldRef Technologies</li>
+</ul>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuVashisth&layout=compact&theme=radical)
+<h2>📊 GitHub Stats</h2>
 
-## 💼 Experience
+<img src="https://github-readme-stats.vercel.app/api?username=ManuVashisth&show_icons=true&theme=radical" alt="GitHub Stats">
 
-- Software Deveoper at WorldRef
-  Present
+<h2>📈 Top Languages</h2>
 
-## 📫 Get in Touch
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuVashisth&layout=compact&theme=radical" alt="Top Languages">
 
-- LinkedIn: (https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/manu-vashistha-9366b2219/)
+<h2>🚀 Get in Touch</h2>
 
-## 🚀 Let's Connect
+<ul>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/manu-vashisth-9366b2219">Your LinkedIn Profile</a></li>
+</ul>
 
-If you're passionate about software development and eager to collaborate on exciting projects, don't hesitate to reach out! Let's connect and build something amazing together.
+<h2>📫 Let's Connect</h2>
 
+<p>If you're passionate about software development and eager to collaborate on exciting projects, don't hesitate to reach out! Let's connect and build something amazing together.</p>
+
+</div> <!-- Close the div -->
