@@ -29,7 +29,7 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManuWorldref&show_icons=true&theme=radical" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=manuWorldref&show_icons=true&theme=radical" alt="GitHub Stats">
 
 <h2>🔖 Badges</h2>
 <p>
@@ -50,6 +50,13 @@
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/manu-vashisth-9366b2219">Manu Vashisth</a></li>
 </ul>
+<h2>LeetCode Profile</h2>
+
+<img src="https://img.shields.io/badge/LeetCode-Solved%20Problems:%20{}%20|%20Submissions:%20{}%20|%20Ranking:%20Top%20{}%25-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white&color=2EC866">
+<p>
+  <a href="https://leetcode.com/ManuVashisth/">Visit LeetCode Profile</a>
+</p>
+
 
 <h2>📫 Let's Connect</h2>
 
