@@ -29,7 +29,9 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=manuWorldref&show_icons=true&theme=radical" alt="GitHub Stats">
+![Contributions](https://github-readme-stats.vercel.app/api?username=manuWorldref)
+![Contribution History](https://github-readme-streak-stats.herokuapp.com/?user=manuWorldref)
+
 
 <h2>🔖 Badges</h2>
 <p>
